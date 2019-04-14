@@ -1,15 +1,5 @@
 [TOC]
 
-* 绪论 
-
-  
-
-* [ 3.开源实战项目](#3.开源实战项目)
-
-
-
-
-
 # 0 绪论 
 
 ## 目的
@@ -86,3 +76,5 @@
 
 
 [https://github.com/PKUanonym/REKCARC-TSC-UHT]: 
+
+[www.baidu.com]: 
