@@ -56,11 +56,11 @@
 
 [deep-learning-with-keras-notebooks][web]
 
-[web]https://github.com/erhwenkuo/deep-learning-with-keras-notebooks
+[web]:https://github.com/erhwenkuo/deep-learning-with-keras-notebooks
 
 [pytorch-tutorial][网址]
 
-[网址]https://github.com/yunjey/pytorch-tutorial
+[网址]:https://github.com/yunjey/pytorch-tutorial
 
 
 
