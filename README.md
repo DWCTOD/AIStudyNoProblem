@@ -48,26 +48,24 @@
 
 
 
-|                           项目名称                           | 简述                                                         | stars |
-| :----------------------------------------------------------: | :----------------------------------------------------------- | :---: |
-| [TensorFlow-Examples][https://github.com/aymericdamien/TensorFlow-Exampleshttps://github.com/aymericdamien/TensorFlow-Examples] | 本资源旨在通过示例轻松深入了解TensorFlow。 为了便于阅读，它包括notebook和带注释的源代码。 |       |
-| [deep-learning-with-keras-notebooks][https://github.com/erhwenkuo/deep-learning-with-keras-notebooks] | 这个github的repository主要是**ErhWen Kuo**在学习Keras的一些记录及练习。希望在学习过程中发现到一些好的信息与示例也可以对想要学习使用Keras来解决问题的同学带来帮助。 |       |
-| [pytorch-tutorial][https://github.com/yunjey/pytorch-tutorial] | 这个资源为深度学习研究人员提供了学习PyTorch的教程代码大多数模型都使用少于30行代码实现。 |       |
-|                                                              |                                                              |       |
+|                                                              |                                                              |      |
+| :----------------------------------------------------------: | :----------------------------------------------------------- | :--: |
+| [TensorFlow-Examples][https://github.com/aymericdamien/TensorFlow-Exampleshttps://github.com/aymericdamien/TensorFlow-Examples] | 本资源旨在通过示例轻松深入了解TensorFlow。 为了便于阅读，它包括notebook和带注释的源代码。 |      |
+| [deep-learning-with-keras-notebooks][https://github.com/erhwenkuo/deep-learning-with-keras-notebooks] | 这个github的repository主要是**ErhWen Kuo**在学习Keras的一些记录及练习。希望在学习过程中发现到一些好的信息与示例也可以对想要学习使用Keras来解决问题的同学带来帮助。 |      |
+| [pytorch-tutorial][https://github.com/yunjey/pytorch-tutorial] | 这个资源为深度学习研究人员提供了学习PyTorch的教程代码大多数模型都使用少于30行代码实现。 |      |
+|                 [TensorFlow-Examples][网址]                  |                                                              |      |
+
+
+
+[TensorFlow-Examples][网址]
+
+[网址]:https://github.com/aymericdamien/TensorFlow-Exampleshttps://github.com/aymericdamien/TensorFlow-Examples
 
 
 
 
 
 ## [pytorch深度学习实践教程][https://github.com/sgrvinod/Deep-Tutorials-for-PyTorch]
-
-[cd][网址]
-
-[网址]:https://github.com/sgrvinod/Deep-Tutorials-for-PyTorch
-
-[a][aa]
-
-[aa]:https://www.baidu.com/
 
 
 
