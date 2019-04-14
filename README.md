@@ -61,6 +61,18 @@
 
 ## [pytorch深度学习实践教程][https://github.com/sgrvinod/Deep-Tutorials-for-PyTorch]
 
+[cd][网址]
+
+[网址]:https://github.com/sgrvinod/Deep-Tutorials-for-PyTorch
+
+[a][aa]
+
+[aa]:https://www.baidu.com/
+
+
+
+
+
 
 
 # 3.开源实战项目
