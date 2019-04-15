@@ -1,4 +1,12 @@
-[TOC]
+* [2.框架学习资料](#2)
+* 
+* 
+
+[0 绪论](0 绪论)
+
+[1.高校课程](# 1.高校课程)
+
+[2.框架学习资料](# 2.框架学习资料)
 
 # 0 绪论 
 
@@ -14,7 +22,7 @@
 
 
 
-## [清华大学计算机系课程][web] 
+## [清华大学计算机系课程][web]   
 
 [web]:https://github.com/PKUanonym/REKCARC-TSC-UHT
 
@@ -22,31 +30,49 @@
 
 
 
-## [浙江大学课程（包含多个专业）][https://github.com/QSCTech/zju-icicles]
+## [浙江大学课程（多个专业）][web]
+
+[web]:https://github.com/QSCTech/zju-icicles
 
 
 
-## [上海交通大学课程][https://github.com/CoolPhilChen/SJTU-Courses]
+
+
+## [上海交通大学课程][web]
+
+[web]:https://github.com/CoolPhilChen/SJTU-Courses
 
 
 
-## [北京大学][https://github.com/lib-pku/libpku]
+
+
+## [北京大学][web]
+
+[web]:https://github.com/lib-pku/libpku
 
 
 
-## [东南大学][https://github.com/zjdx1998/seucourseshare]
+## [东南大学][web]
+
+[web]:https://github.com/zjdx1998/seucourseshare
 
 
 
-## [中国科学技术大学][https://github.com/USTC-Resource/USTC-Course]
+## [中国科学技术大学][web]
+
+[web]:https://github.com/USTC-Resource/USTC-Course
 
 
 
-## [中山大学][https://github.com/sysuexam/SYSU-Exam]
+## [中山大学][web]
+
+[web]:https://github.com/sysuexam/SYSU-Exam
 
 
 
-# 2.框架学习资料
+
+
+# <h2 id=”2”>2.框架学习资料</h2>
 
 |                 项目名称                  | 项目简述                                                     | stars |
 | :---------------------------------------: | :----------------------------------------------------------- | :---: |
@@ -64,19 +90,13 @@
 
 [网址]:https://github.com/yunjey/pytorch-tutorial
 
-
-
-
-
 [TensorFlow-Examples][网址]
 
 [网址]:https://github.com/aymericdamien/TensorFlow-Examples
 
+[pytorch深度学习实践教程][web]:
 
-
-
-
-## [pytorch深度学习实践教程][https://github.com/sgrvinod/Deep-Tutorials-for-PyTorch]
+[web]:https://github.com/sgrvinod/Deep-Tutorials-for-PyTorch
 
 
 
@@ -86,16 +106,24 @@
 
 # 3.开源实战项目
 
-[基于知识图谱的智能医疗诊断系统（提供医生机器人的实现方案）][https://github.com/yueshutong/Doctor]
+[基于知识图谱的智能医疗诊断系统（提供医生机器人的实现方案）][web]
 
-[李航博士《统计学习方法》代码复现][https://github.com/WenDesi/lihang_book_algorithm]
-
-[图表示学习方法汇总][https://github.com/shenweichen/GraphEmbedding]
-
-[AI算法工程师手册][http://www.huaxiaozhuan.com/]
+[web]:https://github.com/yueshutong/Doctor
 
 
 
-[https://github.com/PKUanonym/REKCARC-TSC-UHT]: 
+[李航博士《统计学习方法》代码复现][web]
 
-[www.baidu.com]: 
+[web]:https://github.com/WenDesi/lihang_book_algorithm
+
+
+
+[图表示学习方法汇总][web]
+
+[web]:https://github.com/shenweichen/GraphEmbedding
+
+
+
+[AI算法工程师手册][web]
+
+[web]:http://www.huaxiaozhuan.com/
